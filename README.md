@@ -23,3 +23,10 @@ https://red-smoke-0f2377b10.3.azurestaticapps.net
 ### Health Bot 
 ![bo](https://github.com/spoorthiGoteti/FinalProject/assets/128583755/185adf48-e47a-4969-995c-d33c64e0f0b0)
 
+## Azure Screenshots
+### Health Bot
+![Screenshot 2023-05-26 193857](https://github.com/spoorthiGoteti/FinalProject/assets/128583755/51f4bac2-8566-4aa4-b122-38329b58fc14)
+
+### Static Web App
+![Screenshot 2023-05-26 193838](https://github.com/spoorthiGoteti/FinalProject/assets/128583755/3187f524-e957-42da-a456-007ea763ea90)
+
