@@ -1,7 +1,8 @@
 # Final Project
 # Foodie Blog 
 this is the final project for Microsoft Future Ready Talent Internship
-Author : Goteti Sathya Sree Spoorthi
+
+### Author : Goteti Sathya Sree Spoorthi
 
 # Project Link
 https://red-smoke-0f2377b10.3.azurestaticapps.net
